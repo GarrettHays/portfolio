@@ -15,7 +15,9 @@ _This is a basic portfolio webpage coded using HTML with CSS styling. This webpa
 
 ## Setup/Installation Requirements
 
-* None
+* Clone portfolio folder onto desktop from GitHub
+* Open index.html file in your browser
+* Review Portfolio at your leisure
 
 
 ## Known Bugs
