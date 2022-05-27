@@ -1,11 +1,10 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  width: 70%;
 }
 
 .title {
   font-weight: bolder;
-  font-size: large;
+  font-size: xx-large;
   text-decoration: underline;
 }
 
