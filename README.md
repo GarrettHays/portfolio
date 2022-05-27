@@ -6,8 +6,8 @@
 
 ## Technologies Used
 
-* _HTML_
-* _CSS_
+- [x] HTML
+- [x] CSS
 
 ## Description
 
