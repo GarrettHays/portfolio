@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+  font-weight: bolder;
+  font-size: large;
+  text-decoration: underline;
+}
+
+.subhead {
+  text-decoration: underline;
+}
+
+img {
+    width: 25%;
+    height: auto;
+    padding: 15px;
+    margin: auto;
+    border: ridge rgb(64, 66, 68);
+    border-width: 5px;
+}
