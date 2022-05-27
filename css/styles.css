@@ -18,6 +18,7 @@ img {
     width: 50%;
     height: auto;
     margin: 50px;
+    padding: 1px;
     margin-top: auto;
     border: ridge rgb(206, 193, 118);
     border-width: 10px;
