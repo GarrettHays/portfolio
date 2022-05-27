@@ -22,7 +22,7 @@ _This is a basic portfolio webpage coded using HTML with CSS styling. This webpa
 
 ## Known Bugs
 
-* No Known Bugs[^1]
+* No Known Bugs[^bignote]
 
 ## License
 
@@ -30,4 +30,4 @@ MIT
 
 Copyright (c) _5/27/22_ _Garrett Hays_
 
-[^1]If you identify any issues or just have questions, ideas or concerns, please feel free to contact Garrett Hays [Garrett Hays](mailto:GarrettLHays@gmail.com) to discuss.
+[^bignote]If you identify any issues or just have questions, ideas or concerns, please feel free to contact Garrett Hays [Garrett Hays](mailto:GarrettLHays@gmail.com) to discuss.
