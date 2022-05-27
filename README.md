@@ -23,7 +23,7 @@ _This is a basic portfolio webpage coded using HTML with CSS styling. This webpa
 ## Known Bugs
 
 * No Known Bugs
-  - If you identify any issues or just have questions, ideas or concerns, please feel free to contact Garrett Hays [Garrett Hays](mailto:GarrettLHays@gmail.com) to discuss.
+  - If you identify any issues or just have questions, ideas or concerns, please feel free to contact [Garrett Hays](mailto:GarrettLHays@gmail.com) to discuss.
 
 ## License
 
